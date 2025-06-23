@@ -1,0 +1,48 @@
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\main.py", line 1, in <module>
+    from mcp_server import run_mcp_server
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\mcp_server.py", line 1, in <module>
+    from agent import fetch_earthquake_data, filter_earthquakes
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\agent.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\main.py", line 1, in <module>
+    from mcp_server import run_mcp_server
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\mcp_server.py", line 1, in <module>
+    from agent import fetch_earthquake_data, filter_earthquakes
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\agent.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\main.py", line 1, in <module>
+    from mcp_server import run_mcp_server
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\mcp_server.py", line 1, in <module>
+    from agent import fetch_earthquake_data, filter_earthquakes
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\agent.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\main.py", line 1, in <module>
+    from mcp_server import run_mcp_server
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\mcp_server.py", line 1, in <module>
+    from agent import fetch_earthquake_data, filter_earthquakes
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\agent.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\main.py", line 1, in <module>
+    from mcp_server import run_mcp_server
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\mcp_server.py", line 1, in <module>
+    from agent import fetch_earthquake_data, filter_earthquakes
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\agent.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\main.py", line 1, in <module>
+    from mcp_server import run_mcp_server
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\mcp_server.py", line 1, in <module>
+    from agent import fetch_earthquake_data, filter_earthquakes
+  File "C:\Users\Admin\Desktop\earthquake_mcp_project\agent.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
