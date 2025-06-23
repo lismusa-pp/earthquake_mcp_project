@@ -1,0 +1,14 @@
+# Ignore Google API credentials file (sensitive keys)
+credentials.json
+
+# Ignore environment variable files (if you use any)
+.env
+*.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings folder 
+.vscode/
