@@ -2,7 +2,8 @@ import gspread
 from google.oauth2.service_account import Credentials
 from config import CREDENTIALS_FILE, GOOGLE_SHEET_NAME
 
-SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
+SCOPES = [    "https://www.googleapis.com/auth/spreadsheets",
+    "https://www.googleapis.com/auth/drive"]
 
 def connect_to_sheet():
     creds = Credentials.from_service_account_file(CREDENTIALS_FILE, scopes=SCOPES)
